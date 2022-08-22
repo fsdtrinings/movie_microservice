@@ -1,0 +1,37 @@
+User Details,,,
+1,Ramesh,,
+2,Suresh,,
+3,Neha,,
+4,Kavita,,
+5,Amit,,
+6,Sarita,,
+,,,
+,,,
+Movie Details,,,
+101,Terminal,,
+102,Gravity,,
+103,PK,,
+104,Passengar,,
+105,Forest Gump,,
+106,Gladiator,,
+,,,
+Review Ratings,,,
+101,1,4.5,Good Movie
+101,2,2,Boring
+101,3,4,Good Movie
+101,4,5,Very Good Movie
+102,6,2,
+102,5,4.5,Nice Movie
+102,1,4,Good Moive
+103,3,4.5,Very Nice Movie
+103,6,4.5,Good movie
+103,2,4,Good
+104,5,3,one time watch
+104,6,4,very good movie
+104,1,2,
+104,2,1,boring
+105,1,4,
+105,6,5,Very Good Movie
+106,2,4,
+106,4,4,
+106,3,2,
